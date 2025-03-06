@@ -16,6 +16,11 @@ LeetCode Stats Card
 LeetCode Stats Badge
 
 ![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/tszyman?theme=light)
+
+CodeWars kata
+![Codewars](https://github.r2v.ch/codewars?user=tszyman)
+
+
 <!---
 tszyman/tszyman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
