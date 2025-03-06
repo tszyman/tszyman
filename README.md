@@ -18,6 +18,7 @@ LeetCode Stats Badge
 ![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/tszyman?theme=light)
 
 CodeWars kata
+
 ![Codewars](https://github.r2v.ch/codewars?user=tszyman)
 
 
